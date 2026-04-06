@@ -35,7 +35,7 @@ Clean layered architecture (Controller → Service → Repository)
 
 finance-dashboard-backend
 
-src/main/java/com/example/finance
+src/main/java/com/fahad/finance
 
 ├── FinanceApplication.java
 ├── config
